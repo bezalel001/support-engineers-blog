@@ -1,5 +1,5 @@
 ---
-title: "(optional/bonus) Could you give us a suggestion to improve this test or the job posting?
+title: "(optional/bonus) Could you give us a suggestion to improve this test or the job posting?"
 date: "2020-01-15"
 ---
 
