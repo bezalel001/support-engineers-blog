@@ -9,7 +9,7 @@ date: "2020-01-15"
 
 ### Here I am assuming that I don't know the customer's name.
 
-Hi [Customers name],
+Hi [Customers name]
 
 Thanks for reaching out to us!
 
