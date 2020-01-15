@@ -5,4 +5,4 @@ date: "2020-01-15"
 
 ### [Postman](https://www.getpostman.com/product/api-client)
 
-> I think this documentation is absolutely fanstastic. The clarity and simplicity makes it very easy for a newbie to pick up the knowledge necessary to make use of Postman app to test APIs in less than an hour.
+> I think this documentation is absolutely fantastic. The clarity and simplicity makes it very easy for a newbie to pick up the knowledge necessary to make use of Postman app to test APIs in less than an hour.

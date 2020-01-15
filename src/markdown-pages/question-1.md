@@ -3,7 +3,7 @@ title: "Rank your 5 favorite, and 5 least favorite, activities from this list at
 date: "2020-01-15"
 ---
 
-[Netlify Support Engineers Responsilibities](https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6)
+[Netlify Support Engineers Responsibilities](https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6)
 
 ### 5 Favorite (in no particular order).
 
