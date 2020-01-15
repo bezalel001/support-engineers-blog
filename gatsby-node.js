@@ -14,7 +14,13 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 }
 
 exports.createPages = ({ graphql, actions }) => {
-  const { createPage } = actions
+  const { createPage, createRedirect } = actions
+
+  createRedirect({
+    fromPath: "https://mike-support-engineer.netlify.com/netlify/*",
+    toPath: "https://www.google.com/search?q=:splat",
+    isPermanent: true,
+  })
 
   return graphql(`
     {
